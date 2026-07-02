@@ -50,7 +50,7 @@ A few direct flights between mainland Europe and Akureyri are also available. Op
   </li>
 </ul>
 
-# Accomodation in Akureyri
+# Accommodation in Akureyri
 Participants need to arrange their own accomodation and we encourage people to secure accomodation early. 
 
 A number of rooms at three hotels has been reserved (not booked) and we also encourage participants to book these rooms early since the reservations will expire.
