@@ -1,7 +1,7 @@
 title: NCM 30
 preposition: at
 description: >-
-  The 30th Nordic Congress of Mathematicians
+  The 30th Nordic Congress of Mathematicians, June 20-23 2027
 baseurl: "/ncm30-website" # the subpath of your site, e.g. /blog
 url: "https://islenskastaerdfraedafelagid.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -71,14 +71,18 @@ conference:
     links:
       - name: Program
         relative_url: /program/
+      - name: Speakers
+        relative_url: /speakers/
+      - name: Parallel sessions
+        relative_url: /sessions/
+      - name: Venues
+        relative_url: /location/
       - name: Practical information
         relative_url: /info/
-      - name: Plenary speakers
-        relative_url: /speakers/
-      - name: Special sessions
-        relative_url: /sessions/
-      - name: Locations
-        relative_url: /location/
+      - name: Registration
+        relative_url: /registration/
+      
+      
 
   # Link Preview for Sharing
   link_preview:
